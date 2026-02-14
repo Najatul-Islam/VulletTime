@@ -24,7 +24,8 @@ function App() {
     style={{ backgroundImage: `url(${valentine})` }}
   >
     <Container>
-      <h1 className=" m-auto text-center font-bit font-medium text-sm sm:text-sm md:text-sm text-rose-800">Najatul Islam</h1>
+      <h1 className=" m-auto text-center font-bit font-medium text-[5px] sm:text-sm md:text-sm text-rose-800">Najatul Islam</h1>
+      <h1 className=" m-auto text-center font-bit font-medium text-sm sm:text-sm md:text-sm text-rose-800">Ridika</h1>
       {!yesClicked ? (
         <div className="bg-pink-100 w-full max-w-[500px] my-10 sm:my-20 py-16 sm:py-32 px-4 sm:px-8 rounded-3xl shadow-xl text-center">
 
