@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-bit:"Bitcount Grid Double", system-ui; 
+  --font-dm:"DM Sans", sans-serif;
+}
