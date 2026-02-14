@@ -29,7 +29,7 @@ function App() {
         <div className="bg-pink-100 w-full max-w-[500px] my-10 sm:my-20 py-16 sm:py-32 px-4 sm:px-8 rounded-3xl shadow-xl text-center">
 
           <h1 className="font-bit font-medium text-xl sm:text-2xl md:text-3xl text-rose-400">
-            Will you Harpic khaben For MEEh???
+            Will you Marryyy MEEE???
           </h1>
 
           <p className="font-dm mt-3 text-base sm:text-lg text-rose-700">
@@ -76,12 +76,12 @@ function App() {
           </h1>
 
           <h2 className="font-bit mt-5 text-base sm:text-lg md:text-xl text-rose-700">
-            {name ? name : "My Vondo"}, you are mine ,also I'm Yours  
-            mine VulletTime 💘🌹
+            {name ? name : "My Valentine"}, you are mine ,also I'm Yours  
+            mine ValentTine 💘🌹
           </h2>
 
           <p className="font-dm mt-4 text-base sm:text-lg text-pink-700">
-            Sending hugs,Vondamiii & chocolates 🍫💕
+            Sending hugs,kissess & chocolates 🍫💕
           </p>
 
           {/* Buttons */}
